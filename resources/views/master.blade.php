@@ -23,5 +23,9 @@
         padding-top: 130px;
 
     }
+    .card-header{
+        border: #95999c solid 2px;
+        shape-image-threshold: initial;
+    }
 </style>
 </html>
