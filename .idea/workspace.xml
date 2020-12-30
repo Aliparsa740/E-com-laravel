@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3988c799-59fb-4e38-9395-5be44e595ab8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/product.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,12 +145,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1mC8pqDRK6cQF4qOnntgGDc1Eyj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/E-com-laravel" />
@@ -190,7 +204,9 @@
       <workItem from="1609100234541" duration="1480000" />
       <workItem from="1609102885807" duration="924000" />
       <workItem from="1609186199256" duration="43000" />
-      <workItem from="1609190477095" duration="2277000" />
+      <workItem from="1609190477095" duration="3125000" />
+      <workItem from="1609227245310" duration="8578000" />
+      <workItem from="1609353090621" duration="3968000" />
     </task>
     <task id="LOCAL-00001" summary="firstcommmit">
       <created>1609190939026</created>
@@ -225,8 +241,10 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="firstcommmit" />
     <option name="LAST_COMMIT_MESSAGE" value="firstcommmit" />
   </component>

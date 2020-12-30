@@ -14,13 +14,13 @@ class Product extends Seeder
      */
     public function run()
     {
-        DB::table('product')->insert([
+        DB::table('products')->insert([
             [
-                'name'=>'cellphone',
-                'price'=>'100$',
-                'catagory'=>'cellphon',
-                'describtion'=>'just for talking ',
-                'gallary'=>'\img\3.jpeg',
+                'name'=>'A21',
+                'price'=>'500$',
+                'catagory'=>'smartphone',
+                'describtion'=>'for every thing ',
+                'gallary'=>'\img\1(1).png',
             ],
             [
                 'name'=>'Nokia',
@@ -34,7 +34,7 @@ class Product extends Seeder
                 'price'=>'500$',
                 'catagory'=>'smartphone',
                 'describtion'=>'8gb ram 124gb harddesk 15mpx ',
-                'gallary'=>'\img\4.jpg',
+                'gallary'=>'\img\4.jpeg',
             ]
 
         ]);
